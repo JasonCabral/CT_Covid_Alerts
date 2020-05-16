@@ -14,7 +14,6 @@ Place credentials.json in working directory and run `build_serv()`. This will ge
 
 
 ## Helpful Links
-
 [https://developers.google.com/sheets/api/reference/rest](Google Sheets API Documentation)
 
 
@@ -29,3 +28,4 @@ Metric toggles
 get alerts
 allow add and remove alerts (some sort of protection would be great)
 write to Sheets on save button (or delete button)
+
