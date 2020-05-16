@@ -4,9 +4,11 @@ CT Covid Data Visualization and Alerting system
 
 ## Getting Started
 
-Setup Google Sheets API
-[https://developers.google.com/sheets/api/quickstart/python](Sheets Quickstart API)
-[https://developers.google.com/gmail/api/quickstart/go](Gmail Quickstart API)
+### Setup Google API
+
+[Sheets Quickstart API](https://developers.google.com/sheets/api/quickstart/python)
+
+[Gmail Quickstart API](https://developers.google.com/gmail/api/quickstart/go)
 
 Step 1 will get you `credentials.json`.
 
@@ -14,7 +16,7 @@ Place credentials.json in working directory and run `build_serv()`. This will ge
 
 
 ## Helpful Links
-[https://developers.google.com/sheets/api/reference/rest](Google Sheets API Documentation)
+[Google Sheets API Documentation](https://developers.google.com/sheets/api/reference/rest)
 
 
 # TO-DO
