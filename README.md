@@ -22,12 +22,12 @@ Place credentials.json in working directory and run `build_serv()`. This will ge
 # TO-DO
 
 ### App Main
-get data
-make viz
-Metric toggles
+* get data
+* make viz
+* Metric toggles
 
 ### Alerts Panel
-get alerts
-allow add and remove alerts (some sort of protection would be great)
-write to Sheets on save button (or delete button)
+* get alerts
+* allow add and remove alerts (some sort of protection would be great)
+* write to Sheets on save button (or delete button)
 
