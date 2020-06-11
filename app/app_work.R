@@ -14,4 +14,6 @@ data <- read_sheet(ss = "1h8PgeXtEDaHQCmsFIcqDA3Hm_kVFRrR-jcEfVPfMwAI",
                    sheet = "CT_Covid_Data",
                    range = "data")
 
-# https://docs.google.com/spreadsheets/d/1h8PgeXtEDaHQCmsFIcqDA3Hm_kVFRrR-jcEfVPfMwAI/edit#gid=1625791225
+alerts <- read_sheet(ss = "1h8PgeXtEDaHQCmsFIcqDA3Hm_kVFRrR-jcEfVPfMwAI",
+                   sheet = "CT_Covid_Data",
+                   range = "alerts")
