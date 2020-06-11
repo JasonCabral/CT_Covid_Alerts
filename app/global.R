@@ -2,6 +2,9 @@ library(googlesheets4)
 library(magrittr)
 library(dplyr)
 library(shiny)
+library(ggplot2)
+library(shinydashboard)
+library(plotly)
 
 gs4_auth(
   email = "jcdrummr@gmail.com",
