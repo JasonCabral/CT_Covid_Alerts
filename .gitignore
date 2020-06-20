@@ -39,3 +39,11 @@ vignettes/*.pdf
 .Renviron
 
 .ipynb_checkpoints/
+
+client_secret*
+.secrets/
+token.RDS
+credentials.json
+*.log
+secrets.txt
+token.pickle
